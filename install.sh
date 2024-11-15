@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 #Downloading the req dependencies to run a script without error
 #################################
-#    Project : T-Megapackage    #
-#       author : Ashish         #
+#    Project : OMER LINUX    #
+#       author : OMER ABO AKER 🤍•         #
 #################################
 clear
 
